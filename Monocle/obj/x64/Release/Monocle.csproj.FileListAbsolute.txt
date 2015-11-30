@@ -1,0 +1,340 @@
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Externals\7z.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Externals\DSAPI.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Monocle.exe.config
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Monocle.exe.manifest
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Monocle.application
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Monocle.exe
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Monocle.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\libpxcclr.cs.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.ClientLib.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Reading.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Serialization.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Sessions.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Visualization.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Reading.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Sessions.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Visualization.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SevenZipSharp.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.ClientLib.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Reading.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Sessions.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Visualization.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Reading.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Serialization.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Sessions.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Visualization.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.csprojResolveAssemblyReference.cache
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\MainWindow.baml
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\MainWindow.g.cs
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\App.g.cs
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle_Content.g.cs
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle_MarkupCompile.cache
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle_MarkupCompile.lref
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\App.baml
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.g.resources
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.Properties.Resources.resources
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.csproj.GenerateResource.Cache
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.TrustInfo.xml
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.exe.manifest
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.application
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.exe
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Monocle.exe.config
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.exe
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Externals\7z.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Externals\DSAPI.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Monocle.exe.manifest
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Monocle.application
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Monocle.exe
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Monocle.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.ClientLib.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Reading.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Serialization.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Sessions.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Visualization.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Reading.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Sessions.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Visualization.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Newtonsoft.Json.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SevenZipSharp.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.ClientLib.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Reading.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Sessions.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\SmithersDS4.Visualization.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Reading.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Serialization.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Sessions.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Smithers.Visualization.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Release\Newtonsoft.Json.xml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.csprojResolveAssemblyReference.cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\MainWindow.baml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\MainWindow.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\App.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle_Content.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle_MarkupCompile.cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle_MarkupCompile.lref
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\App.baml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.g.resources
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.Properties.Resources.resources
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.csproj.GenerateResource.Cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.TrustInfo.xml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.exe.manifest
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Release\Monocle.application
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Monocle.exe.config
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.exe
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Externals\7z.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Externals\DSAPI.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Monocle.exe.manifest
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Monocle.application
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Monocle.exe
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Monocle.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.ClientLib.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Reading.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Serialization.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Sessions.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Visualization.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Reading.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Sessions.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Visualization.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Newtonsoft.Json.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SevenZipSharp.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.ClientLib.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Reading.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Sessions.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Visualization.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Reading.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Serialization.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Sessions.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Visualization.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Newtonsoft.Json.xml
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.csprojResolveAssemblyReference.cache
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\MainWindow.baml
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\MainWindow.g.cs
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\App.g.cs
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle_Content.g.cs
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle_MarkupCompile.cache
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle_MarkupCompile.lref
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\App.baml
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.g.resources
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.Properties.Resources.resources
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.csproj.GenerateResource.Cache
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.TrustInfo.xml
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.exe.manifest
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.application
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Monocle.exe.config
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.exe
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Externals\7z.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Externals\DSAPI.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Monocle.exe.manifest
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Monocle.application
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Monocle.exe
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Monocle.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.ClientLib.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Reading.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Serialization.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Sessions.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Visualization.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Reading.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Sessions.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Visualization.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Newtonsoft.Json.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SevenZipSharp.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.ClientLib.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Reading.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Sessions.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\SmithersDS4.Visualization.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Reading.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Serialization.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Sessions.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Smithers.Visualization.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\bin\x64\Release\Newtonsoft.Json.xml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.csprojResolveAssemblyReference.cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\MainWindow.baml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\MainWindow.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\App.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle_Content.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle_MarkupCompile.cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle_MarkupCompile.lref
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\App.baml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.g.resources
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.Properties.Resources.resources
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.csproj.GenerateResource.Cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.TrustInfo.xml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.exe.manifest
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\Monocle\obj\x64\Release\Monocle.application
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Monocle.exe.config
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle.exe
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Externals\7z.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Externals\DSAPI.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Monocle.exe.manifest
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Monocle.application
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Monocle.exe
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Monocle.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\libpxcclr.cs.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Smithers.ClientLib.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Smithers.Reading.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Smithers.Serialization.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Smithers.Sessions.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Smithers.Visualization.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\SmithersDS4.Reading.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\SmithersDS4.Visualization.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\SevenZipSharp.dll
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Smithers.ClientLib.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\SmithersDS4.Reading.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\SmithersDS4.Visualization.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Smithers.Reading.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Smithers.Serialization.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Smithers.Sessions.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Smithers.Visualization.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\MainWindow.baml
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\MainWindow.g.cs
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\App.g.cs
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle_Content.g.cs
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle_MarkupCompile.cache
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle_MarkupCompile.lref
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\App.baml
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle.g.resources
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle.Properties.Resources.resources
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle.csproj.GenerateResource.Cache
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle.TrustInfo.xml
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle.exe.manifest
+C:\Users\ntuser\Documents\Tools\Monocle\Monocle\obj\x64\Release\Monocle.application
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Externals\7z.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Externals\DSAPI.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Monocle.exe.config
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Monocle.exe
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Monocle.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\libpxcclr.cs.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.ClientLib.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Serialization.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Sessions.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Visualization.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Visualization.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SevenZipSharp.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.ClientLib.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Reading.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Visualization.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Reading.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Serialization.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Visualization.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\MainWindow.baml
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\MainWindow.g.cs
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\App.g.cs
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle_Content.g.cs
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle_MarkupCompile.cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle_MarkupCompile.lref
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\App.baml
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.g.resources
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.Properties.Resources.resources
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.csproj.GenerateResource.Cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.exe
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Windows.winmd
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Monocle.exe.config
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.exe
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.pdb
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Externals\7z.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Externals\DSAPI.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Monocle.exe
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Monocle.pdb
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Microsoft.Kinect.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.ClientLib.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Reading.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Serialization.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Sessions.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Visualization.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Reading.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Sessions.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Visualization.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Windows.winmd
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Newtonsoft.Json.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SevenZipSharp.dll
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.ClientLib.pdb
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Reading.pdb
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Sessions.pdb
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Visualization.pdb
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Reading.pdb
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Serialization.pdb
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Sessions.pdb
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Smithers.Visualization.pdb
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Microsoft.Kinect.xml
+D:\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Release\Newtonsoft.Json.xml
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.csprojResolveAssemblyReference.cache
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\MainWindow.baml
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\MainWindow.g.cs
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\App.g.cs
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle_Content.g.cs
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle_MarkupCompile.cache
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle_MarkupCompile.lref
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\App.baml
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.g.resources
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.Properties.Resources.resources
+D:\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Release\Monocle.csproj.GenerateResource.Cache
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Monocle.exe.config
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\Monocle.exe
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\Monocle.pdb
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Externals\7z.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Externals\DSAPI.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Monocle.exe
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Monocle.pdb
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\libpxcclr.cs.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Microsoft.Kinect.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Smithers.ClientLib.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Smithers.Reading.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Smithers.Serialization.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Smithers.Sessions.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Smithers.Visualization.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Reading.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Visualization.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Windows.winmd
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\SevenZipSharp.dll
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Smithers.ClientLib.pdb
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Reading.pdb
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\SmithersDS4.Visualization.pdb
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Smithers.Reading.pdb
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Smithers.Serialization.pdb
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Smithers.Sessions.pdb
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Smithers.Visualization.pdb
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Microsoft.Kinect.xml
+C:\Users\ntuser\Documents\Monocle App\Monocle\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\Monocle.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\MainWindow.baml
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\MainWindow.g.cs
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\App.g.cs
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\Monocle_Content.g.cs
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\Monocle_MarkupCompile.cache
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\Monocle_MarkupCompile.lref
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\App.baml
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\Monocle.g.resources
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\Monocle.Properties.Resources.resources
+C:\Users\ntuser\Documents\Monocle App\Monocle\obj\x64\Release\Monocle.csproj.GenerateResource.Cache

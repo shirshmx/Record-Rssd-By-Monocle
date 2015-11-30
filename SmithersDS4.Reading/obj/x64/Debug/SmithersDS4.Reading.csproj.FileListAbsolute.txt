@@ -1,0 +1,17 @@
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Reading\obj\x64\Debug\SmithersDS4.Reading.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\SmithersDS4.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\SmithersDS4.Reading.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\libpxcclr.cs.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\Smithers.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\Smithers.Serialization.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\Smithers.Sessions.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\Windows.winmd
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\SevenZipSharp.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\Smithers.Reading.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\Smithers.Serialization.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\Smithers.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\obj\x64\Debug\SmithersDS4.Reading.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\obj\x64\Debug\SmithersDS4.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Reading\obj\x64\Debug\SmithersDS4.Reading.pdb

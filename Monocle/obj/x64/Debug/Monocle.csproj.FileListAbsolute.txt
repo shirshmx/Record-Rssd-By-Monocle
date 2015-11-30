@@ -1,0 +1,50 @@
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Debug\Monocle.exe.config
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\x64\Debug\Monocle.exe.config
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Debug\Monocle.csprojResolveAssemblyReference.cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Debug\MainWindow.baml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Debug\MainWindow.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Debug\App.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Debug\Monocle_Content.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Debug\Monocle_MarkupCompile.cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\x64\Debug\Monocle_MarkupCompile.lref
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Monocle.exe.config
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\Monocle.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\MainWindow.baml
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\App.g.cs
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\Monocle_Content.g.cs
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\Monocle_MarkupCompile.cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\Monocle_MarkupCompile.lref
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\App.baml
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\Monocle.g.resources
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\Monocle.Properties.Resources.resources
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\Monocle.csproj.GenerateResource.Cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\Monocle.exe
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\obj\x64\Debug\Monocle.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Externals\7z.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Externals\DSAPI.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Monocle.exe
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Monocle.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\libpxcclr.cs.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Smithers.ClientLib.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Smithers.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Smithers.Serialization.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Smithers.Sessions.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Smithers.Visualization.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\SmithersDS4.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\SmithersDS4.Visualization.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Windows.winmd
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\SevenZipSharp.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Smithers.ClientLib.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\SmithersDS4.Reading.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\SmithersDS4.Visualization.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Smithers.Reading.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Smithers.Serialization.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Smithers.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Smithers.Visualization.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Monocle\bin\x64\Debug\Newtonsoft.Json.xml

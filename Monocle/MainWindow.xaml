@@ -1,0 +1,379 @@
+﻿<Window x:Class="Monocle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Monocle"       
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        mc:Ignorable="d" 
+        WindowState="Maximized"
+        Closing="Window_Closing" 
+        d:DesignHeight="960" d:DesignWidth="1200">
+
+    <Window.Resources>
+        <Storyboard x:Key="FlashAttack">
+            <DoubleAnimation Storyboard.TargetName="flash" Storyboard.TargetProperty="Opacity" From="0" To="0.7" Duration="0:0:0.1" DecelerationRatio="0.8"/>
+        </Storyboard>
+        <Storyboard x:Key="FlashDecay">
+            <DoubleAnimation Storyboard.TargetName="flash" Storyboard.TargetProperty="Opacity" From="0.7" To="0" Duration="0:0:0.2" DecelerationRatio="0.3"/>
+        </Storyboard>
+        <Style x:Key="RadioButtonStyle" TargetType="RadioButton">
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="FontWeight" Value="Light" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type RadioButton}">
+                        <BulletDecorator Background="Transparent">
+                            <BulletDecorator.Bullet>
+                                <StackPanel Orientation="Horizontal" >
+                                    <Grid Width="20" Height="20">
+                                        <Rectangle Name="MainRect" Width="20" Height="20" Fill="White" Stroke="Black" />
+                                        <Line x:Name="Line1_Selected" X1="0" X2="20" Y1="0" Y2="20" Stroke="Black" StrokeThickness="2" Visibility="Hidden"/>
+                                        <Line x:Name="Line2_Selected" X1="0" X2="20" Y1="20" Y2="0" Stroke="Black" StrokeThickness="2" Visibility="Hidden"/>
+                                    </Grid>
+                                    <ContentPresenter Margin="5,0,0,0" VerticalAlignment="Center"/>
+                                </StackPanel>
+                            </BulletDecorator.Bullet>
+                        </BulletDecorator>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter TargetName="Line1_Selected" Property="Visibility" Value="Visible"/>
+                                <Setter TargetName="Line2_Selected" Property="Visibility" Value="Visible"/>
+                            </Trigger>
+                            <Trigger Property="IsChecked" Value="true">
+                                <Setter TargetName="Line1_Selected" Property="Visibility" Value="Visible"/>
+                                <Setter TargetName="Line2_Selected" Property="Visibility" Value="Visible"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <BooleanToVisibilityConverter x:Key="BoolToVis" />
+        <SolidColorBrush x:Key="DisableGreen" Color="LightGreen" />
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="207"/>
+            <ColumnDefinition Width="13"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Canvas Name="canvas" Grid.Row="0" />
+            <Rectangle Name="flash" Fill="White" Opacity="0" Margin="0,19,0,-19"/>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="0,-1,0,1">
+                <Image Name="cameraDummpy" Visibility="Collapsed"/>
+            </StackPanel>
+            <StackPanel Name="spCamera" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0">
+                <TextBlock Text="Camera" FontSize="15" FontWeight="Bold"></TextBlock>
+                <ToggleButton Width="150" Height="40" 
+                              FontSize="25" FontWeight="Bold" Background="DimGray" 
+                              Foreground="White"
+                              Name="btnColor" Content="color" Tag="Color" Margin="0,4,0,4" Click="ToggleCamera_Click" />
+                <ToggleButton Width="150"  Height="40" 
+                              FontSize="25" FontWeight="Bold" Background="DimGray" 
+                              Foreground="White"  Name="btnDepth" Content="depth" Tag="Depth" Margin="0,0,0,4" Click="ToggleCamera_Click" IsChecked="True"/>
+            </StackPanel>
+            <!--<StackPanel Name="spMode" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20, 120, 20, 20">
+                <TextBlock Text="Capture Mode" FontSize="15" FontWeight="Bold"></TextBlock>
+                <ToggleButton Width="150" Height="30" Name="btnTrigger" Content="Trigger" Tag="Trigger" Margin="0,4,0,4" Click="ToggleCaptureMode_Click" IsChecked="True" />
+                <ToggleButton Width="150" Height="30"  Name="btnRecord" Content="Stream" Tag="Stream" Margin="0,0,0,4" Click="ToggleCaptureMode_Click"/>
+                <ToggleButton Width="150" Height="30"  Name="btnSweep" Content="Sweep" Tag="Sweep" Margin="0,0,0,4" Click="ToggleCaptureMode_Click"/>
+            </StackPanel>-->
+
+            <!--<StackPanel Name="spPortrait" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20, 150, 20, 20">
+                <TextBlock Text="Portrait Mode" FontSize="15" FontWeight="Bold"></TextBlock>
+                <ToggleButton Width="150"  Height="40" 
+                              FontSize="25" FontWeight="Bold" Background="DimGray" 
+                              Foreground="White" Name="btnPortrait" Content="Portrait" Tag="Portrait" Margin="0,4,0,4" Click="TogglePortraitMode_Click" IsChecked="False" />
+            </StackPanel>-->
+            <StackPanel Orientation="Vertical" Margin="20, 290, 20, 20">
+                <TextBlock Text="Tracking Accuracy: " FontSize="15" FontWeight="Bold"></TextBlock>
+                <Label Name="lblSceneTrackingAccuracy" MinWidth="40" FontSize="15" FontWeight="Bold"/>
+            </StackPanel>
+
+            <StackPanel Name="spDeviceParam" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20, 340, 20, 20">
+                <Label Name="lblFrameRate" FontSize="15" FontWeight="Bold"/>
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Depth Exposure:" FontSize="15" FontWeight="Bold"></TextBlock>
+                    <TextBox Name="inputImageExposure" HorizontalAlignment="Center" Margin="10,0,0,10" MinWidth="40" KeyDown="inputImageParameterKeyDown"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Depth Gain: " FontSize="15" FontWeight="Bold"></TextBlock>
+                    <TextBox Name="inputImageGain" HorizontalAlignment="Center" Margin="10,0,0,10" MinWidth="40" KeyDown="inputImageParameterKeyDown"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Color Exposure:" FontSize="15" FontWeight="Bold"></TextBlock>
+                    <TextBox Name="colorImageExposure" HorizontalAlignment="Center" Margin="10,0,0,10" MinWidth="40" KeyDown="colorImageParameterKeyDown"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBlock Text="Color Gain: " FontSize="15" FontWeight="Bold"></TextBlock>
+                    <TextBox Name="colorImageGain" HorizontalAlignment="Center" Margin="10,0,0,10" MinWidth="40" KeyDown="colorImageParameterKeyDown"/>
+                </StackPanel>
+
+            </StackPanel>
+            
+            <StackPanel  Name="spNewSession" Margin="0,0,40,0" HorizontalAlignment="Center"  VerticalAlignment="Bottom" Orientation="Vertical">
+                <StackPanel HorizontalAlignment="Stretch" Name="spUploadPanel" Margin="0,10,0,0"
+                            Visibility="Collapsed">
+                    <TextBlock HorizontalAlignment="Center" 
+                               FontSize="12" 
+                               Text="{Binding Uploader.ProgressInMB}" 
+                               Visibility="{Binding Uploader.InProgress, Converter={StaticResource BoolToVis}}"/>
+                    <ProgressBar Style="{StaticResource ProgressBarStyle1}" IsIndeterminate="True"  Margin="0,3,0,3"
+                                 Visibility="{Binding Compressing, Converter={StaticResource BoolToVis}}"/>
+
+                    <ProgressBar Style="{StaticResource ProgressBarStyle1}"
+                                                         Value="{Binding Uploader.PercentComplete, Mode=OneWay}"  Margin="0,3,0,3" 
+                                                         Visibility="{Binding Uploader.InProgress, FallbackValue=Hidden, Converter={StaticResource BoolToVis}}"/>
+                    <TextBox HorizontalAlignment="Center" VerticalAlignment="Center"  MinWidth="50" 
+                                                          FontSize="15"
+                                                          FontWeight="Bold"
+                                                          BorderThickness="0"
+                                                          IsReadOnly="True"
+                                                          Visibility="{Binding Uploader.Waiting, Converter={StaticResource InverseBoolToVis}}"
+                                                          Text="{Binding Uploader.Result, Converter={StaticResource UploadResultToMsg}, Mode=OneWay}"/>
+
+                    
+                </StackPanel>
+                
+                <StackPanel Name="spScanOperation" HorizontalAlignment="Center"  Visibility="Collapsed">
+                    <Button Click="Export_Click"  
+                            FontSize="18" FontWeight="Bold" Background="DimGray" 
+                            Foreground="White"
+                            Width="150" Height="40" HorizontalAlignment="Center" Margin="10" Content="Open Directory"/>                   
+
+                </StackPanel>
+            </StackPanel>
+            <CheckBox x:Name="cbxRealTime" Content="Real Time" HorizontalAlignment="Left" Height="22" Margin="20,244,0,0" VerticalAlignment="Top" Width="109" Checked="cbxRealTime_Checked" Unchecked="cbxRealTime_Unchecked" Visibility="Hidden"/>
+        </Grid>
+
+        <Grid Grid.Column="1" HorizontalAlignment="Stretch">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Border Margin="3" Grid.ColumnSpan="3" Grid.Row="0"
+                BorderBrush="LightGray" BorderThickness="3,3,3,3" CornerRadius="3"
+                VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0" Name="spInputScan" Orientation="Horizontal" Margin="10,0,10,0" HorizontalAlignment="Stretch" Visibility="Visible">
+                        <StackPanel Name="spNameGender" Margin="10,10,30,10" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Orientation="Vertical">
+
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Name: " FontSize="20" FontWeight="Bold"></TextBlock>
+                                <TextBox TabIndex="0" Name="inputName"  FontSize="20" HorizontalAlignment="Center" Margin="10,0,0,10"  MinWidth="120" />
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Gender: " FontSize="20" FontWeight="Bold"></TextBlock>
+                                <RadioButton x:Name="rbMale"  Margin="0,0,10,0" Checked="Gender_Checked" Style="{StaticResource RadioButtonStyle}" RenderTransformOrigin="0.5,0.5">
+                                    <RadioButton.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="0.072"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </RadioButton.RenderTransform>
+                                    <TextBlock Text="Male" FontSize="18" FontWeight="Bold" Height="29" Width="58" RenderTransformOrigin="0.5,0.5">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="0.541"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>
+                                    </TextBlock>
+                                </RadioButton>
+                                <RadioButton Name="rbFemale" Checked="Gender_Checked" Style="{StaticResource RadioButtonStyle}">
+                                    <TextBlock Text="Female" FontSize="20" FontWeight="Bold"></TextBlock>
+                                </RadioButton>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Margin="15,10,30,10" Name="spHeightWeight" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Orientation="Vertical">
+
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Height(cm): " FontSize="20" FontWeight="Bold"></TextBlock>
+                                <TextBox TabIndex="0" Name="inputHeight" FontSize="20" HorizontalAlignment="Center" Margin="10,0,0,10" MinWidth="80"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Weight(kg): " FontSize="20" FontWeight="Bold"></TextBlock>
+                                <TextBox TabIndex="0" Name="inputWeight"  FontSize="20" HorizontalAlignment="Center" Margin="10,0,0,10" MinWidth="80"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Grid.Column="0" Name="spSessionInfo" Orientation="Horizontal" Margin="5,0,10,0" HorizontalAlignment="Stretch" Visibility="Collapsed">
+                        <StackPanel Margin="5,10,30,5" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Orientation="Vertical">
+
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Name: " FontSize="20" FontWeight="Bold"></TextBlock>
+                                <TextBlock Text="{Binding Metadata.Name}" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="10,0,0,5"  MinWidth="80"></TextBlock>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Gender: " FontSize="20" FontWeight="Bold"></TextBlock>
+                                <TextBlock  Text="{Binding Metadata.Gender}" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="10,0,0,5"  MinWidth="80"></TextBlock>
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Margin="0,10,30,10" Name="spSessionHeightWeightInfo" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Orientation="Vertical">
+
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Height(cm): " FontSize="20" FontWeight="Bold"></TextBlock>
+                                <TextBlock  Text="{Binding Metadata.Height}" FontSize="20" FontWeight="Bold"></TextBlock>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 0">
+                                <TextBlock Text="Weight(kg): " FontSize="20" FontWeight="Bold"></TextBlock>
+                                <TextBlock  Text="{Binding Metadata.Weight}" FontSize="20" FontWeight="Bold"></TextBlock>
+                            </StackPanel>
+
+                        </StackPanel>
+                        <StackPanel Margin="10,10,30,10" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Orientation="Vertical">
+
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Sweeps Recorded: " FontSize="20" FontWeight="Bold"></TextBlock>
+                                <TextBlock Name="tbCapturedSweeps"  Text="0" FontSize="20" FontWeight="Bold"></TextBlock>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" Margin="0, 10, 0, 0">
+                                <TextBlock Text="Last Sweep Frames: " FontSize="20" FontWeight="Bold"></TextBlock>
+                                <TextBlock  Name="tbCapturedFrames" Text="--" FontSize="20" FontWeight="Bold"></TextBlock>
+                            </StackPanel>
+
+                        </StackPanel>
+                    </StackPanel>
+                    <Button Name="btnStartNew" Click="SaveNewInfoAndStartSession" VerticalAlignment="Center"
+                            FontSize="18" FontWeight="ExtraBold" Background="DimGray" 
+                            Foreground="White" Height="60" Width="230" HorizontalAlignment="Right" Margin="0,10,10,28"  
+                            Content="Select Gender to start " IsEnabled="False" Grid.ColumnSpan="2"/>
+                    <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+                        <Button Name="btnEndSessionAndUpload" Click="EndCurrentSessionAndUpload"  VerticalAlignment="Center"
+                            FontSize="20" FontWeight="ExtraBold" Background="DimGray" 
+                            Foreground="White" Height="50" Width="160" HorizontalAlignment="Right" Margin="0,0,10,0"
+                            Visibility="Collapsed">
+                            <Button.Style>
+                                <Style TargetType="{x:Type Button}">
+                                    <Setter Property="Content" Value="End &amp; Upload" />
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding Compressing}" Value="True">
+                                            <Setter Property="Content" Value="Compressing..." />
+                                            <Setter Property="IsEnabled" Value="False"/>
+                                        </DataTrigger>
+
+                                        <DataTrigger Binding="{Binding Path=Uploader.InProgress}" Value="True">
+                                            <Setter Property="Content" Value="Cancel" />
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding Path=Uploader.ReTryer.Started}" Value="True">
+                                            <Setter Property="Content" Value="Retry Now" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <Button Name="btnEndAndStartNewSession" Click="EndAndStartNewSession"  VerticalAlignment="Center"
+                            FontSize="20" FontWeight="ExtraBold" Background="DimGray" 
+                            Foreground="White" Height="50" Width="150" HorizontalAlignment="Right" Margin="0,0,10,0"
+                            Visibility="Collapsed" Content="End"/>
+
+                    </StackPanel>
+                    
+                </Grid>
+                
+            </Border>
+
+            <Image Grid.Row="1" Name="camera" Stretch="UniformToFill"/>
+        </Grid>
+
+
+
+        <Grid Grid.Column="2" Grid.Row="0" HorizontalAlignment="Stretch" Grid.ColumnSpan="2">
+            <DockPanel Name="CaptureControlPanel" HorizontalAlignment="Stretch" Grid.Row="0">
+               
+                <Button Click="btnCapture_Click" IsEnabled="False" Name="btnCapture" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="4" Background="LightGreen" FontSize="25">
+                    <Button.Resources>
+                        <Style x:Key="FocusVisual">
+                            <Setter Property="Control.Template">
+                                <Setter.Value>
+                                    <ControlTemplate>
+                                        <Rectangle Margin="2" SnapsToDevicePixels="true" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" StrokeThickness="1" StrokeDashArray="1 2"/>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                        <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD"/>
+                        <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070"/>
+                        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
+                        <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FF3C7FB1"/>
+                        <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFC4E5F6"/>
+                        <SolidColorBrush x:Key="Button.Pressed.Border" Color="#FF2C628B"/>
+                        <SolidColorBrush x:Key="Button.Disabled.Background" Color="LightGreen"/>
+                        <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
+                        <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+                            <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
+                            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}"/>
+                            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+                            <Setter Property="BorderThickness" Value="1"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="VerticalContentAlignment" Value="Center"/>
+                            <Setter Property="Padding" Value="1"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="{x:Type Button}">
+                                        <Border x:Name="border" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" SnapsToDevicePixels="true">
+                                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                        </Border>
+                                        <ControlTemplate.Triggers>
+                                            <Trigger Property="IsDefaulted" Value="true">
+                                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                                            </Trigger>
+                                            <Trigger Property="IsPressed" Value="true">
+                                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Pressed.Background}"/>
+                                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border}"/>
+                                            </Trigger>
+                                            <Trigger Property="IsEnabled" Value="false">
+                                                <Setter Property="Background" TargetName="border" Value="{StaticResource DisableGreen}"/>
+                                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border}"/>
+                                                <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground}"/>
+                                            </Trigger>
+                                        </ControlTemplate.Triggers>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Content>
+                        <TextBlock FontSize="25" FontWeight="Bold" TextWrapping="Wrap" TextAlignment="Center">Start a new session to begin</TextBlock>
+                    </Button.Content>
+
+                </Button>
+            </DockPanel>
+            <StackPanel Name="spCaptureStats" Orientation="Vertical" Margin="20,30,20,0" VerticalAlignment="Top" Visibility="Visible">
+                <Label Name="lblCaptureCount" FontSize="17" FontWeight="Bold"/>
+            </StackPanel>
+
+            <Button Name="BtnRedoSweep" Width="180" Height="60" Click="DeleteAndRedoLastSweep"
+                    FontSize="20" FontWeight="Bold" Background="DimGray" 
+                    Foreground="White" Margin="20,30,20,0" VerticalAlignment="Top" Visibility="Collapsed" >
+                <TextBlock TextWrapping="Wrap" TextAlignment="Center">Redo Last Sweep</TextBlock>
+            </Button>
+        </Grid>
+        <Button x:Name="btnPlay" Content="Playback" HorizontalAlignment="Left" VerticalAlignment="Top" Width="153" Margin="20,153,0,0" Height="86" Click="btnPlay_Click" Visibility="Hidden"/>
+    </Grid>
+</Window>

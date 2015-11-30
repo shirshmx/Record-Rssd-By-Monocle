@@ -1,0 +1,9 @@
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\bin\Debug\Monocle.exe.config
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\Debug\Monocle.csprojResolveAssemblyReference.cache
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\Debug\MainWindow.baml
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\Debug\MainWindow.g.cs
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\Debug\App.g.cs
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\Debug\Monocle_Content.g.cs
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\Debug\Monocle_MarkupCompile.cache
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Monocle\obj\Debug\Monocle_MarkupCompile.lref

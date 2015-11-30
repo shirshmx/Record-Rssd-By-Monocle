@@ -1,0 +1,149 @@
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\libpxcclr.cs.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Reading.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\SevenZipSharp.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Reading.pdb
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.xml
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.xml
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.csprojResolveAssemblyReference.cache
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.dll
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Reading.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\SevenZipSharp.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Smithers.Reading.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.xml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.xml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.csprojResolveAssemblyReference.cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Reading.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\SevenZipSharp.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Reading.pdb
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.xml
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.xml
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.csprojResolveAssemblyReference.cache
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.dll
+E:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Reading.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\SevenZipSharp.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Smithers.Reading.pdb
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.xml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.xml
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.csprojResolveAssemblyReference.cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.dll
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f_some fixes\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\libpxcclr.cs.dll
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.dll
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.dll
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.dll
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\Smithers.Reading.dll
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.dll
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.dll
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\SevenZipSharp.dll
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\Smithers.Reading.pdb
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.xml
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.xml
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Documents\Tools\Monocle\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\libpxcclr.cs.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Windows.winmd
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\SevenZipSharp.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Reading.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.xml
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.xml
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.dll
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.pdb
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.dll
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.dll
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.dll
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Reading.dll
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.dll
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.dll
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\SevenZipSharp.dll
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.pdb
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.pdb
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.pdb
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Reading.pdb
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.xml
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.xml
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.csprojResolveAssemblyReference.cache
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.dll
+D:\Monocle With Rssdk record\Monocle App\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\libpxcclr.cs.dll
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.dll
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.dll
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.dll
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Reading.dll
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.dll
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.dll
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\SevenZipSharp.dll
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\SmithersDS4.Reading.pdb
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Serialization.pdb
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Sessions.pdb
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\Smithers.Reading.pdb
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\Newtonsoft.Json.xml
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\bin\Release\Microsoft.Kinect.xml
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Documents\Monocle App\SmithersDS4.Sessions\obj\Release\SmithersDS4.Sessions.pdb

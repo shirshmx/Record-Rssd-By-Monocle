@@ -1,0 +1,24 @@
+C:\Users\mstahl\Documents\Visual Studio 2012\Projects\bodylabs-monocle-ds4-9dbb7314a28f\Smithers.ClientLib\obj\Debug\Smithers.ClientLib.csprojResolveAssemblyReference.cache
+D:\ISV\bodylabs-monocle-ds4-9dbb7314a28f\Smithers.ClientLib\obj\Debug\Smithers.ClientLib.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Smithers.ClientLib.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Smithers.ClientLib.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\libpxcclr.cs.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Smithers.Sessions.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\SmithersDS4.Sessions.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\SmithersDS4.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Windows.winmd
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Smithers.Serialization.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Smithers.Reading.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\SevenZipSharp.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Microsoft.Kinect.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\SmithersDS4.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Smithers.Sessions.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\SmithersDS4.Reading.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Smithers.Serialization.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Smithers.Reading.pdb
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\bin\Debug\Microsoft.Kinect.xml
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\obj\Debug\Smithers.ClientLib.csprojResolveAssemblyReference.cache
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\obj\Debug\Smithers.ClientLib.dll
+C:\Users\ntuser\Desktop\Monocle With Rssdk record\Monocle App\Smithers.ClientLib\obj\Debug\Smithers.ClientLib.pdb
